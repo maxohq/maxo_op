@@ -1,4 +1,0 @@
-ELixir Dependency
-
-- https://github.com/amclain/resolve/tree/main
-- https://github.com/verypossible-labs/hook

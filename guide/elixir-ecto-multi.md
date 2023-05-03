@@ -1,11 +1,7 @@
-- Usage:
-    changesets?
-        to work with forms
-    ecto multi?
-        - to combine multiple operations into a single one
-        - works also for non-db operations
-
 - Ecto Multi as Business Transaction layer
+  - changesets?
+    to work with forms
+  - ecto multi? - to combine multiple operations into a single one - works also for non-db operations
 
 ```elixir
 defmodule AlchemyReaction.Sales.CancelOrderManually do
