@@ -17,6 +17,10 @@
   - https://github.com/henriquefernandez/use_case
     A way to increase Elixir projects readability and maintenance. Heavily inspired by Clean Architecture.
 
+- EctoCommand
+  - https://github.com/silvadanilo/ecto_command
+  - EctoCommand is a toolkit for mapping, validating, and executing commands received from any source. It provides a simple and flexible way to define and execute commands in Elixir. With support for validation, middleware, and automatic OpenAPI documentation generation, it's a valuable tool for building scalable and maintainable Elixir applications. We hope you find it useful!
+
 - Commandex
 
   - https://github.com/codedge-llc/commandex
